@@ -20,9 +20,9 @@ interests:
 - Information Retrieval
 name: Alice Richardson
 organizations:
-- name: Stanford University
+- name: Australian National University
   url: ""
-role: Professor of Artificial Intelligence
+role: Director, Statistical Consulting Unit
 social:
 - icon: twitter
   icon_pack: fab
