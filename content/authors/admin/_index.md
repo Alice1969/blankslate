@@ -15,9 +15,10 @@ education:
     year: 1991
 email: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Multilevel modelling
+- Multiple imputation
+- Robust statistics
+- Statistics education
 name: Alice Richardson
 organizations:
 - name: Australian National University
@@ -42,7 +43,7 @@ user_groups:
 - Visitors
 ---
 
- I studied at Victoria University of Wellington, New Zealand, then at the Australian National University, Canberra. My PhD was on the statistical properties of robust methods of estimation for multilevel linear models.
+I studied at Victoria University of Wellington, New Zealand, then at the Australian National University, Canberra. My PhD was on the statistical properties of robust methods of estimation for multilevel linear models.
 
 I have twenty years of experience in teaching undergraduate statistics at the University of Canberra. During that time I also collaborated on quantitative research projects in every Faculty of the University. In 2016 I took up a position as biostatistician at the National Centre for Epidemiology & Population Health at the Australian National University.
 
