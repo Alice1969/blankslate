@@ -1,25 +1,24 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include multilevel models, missing data, robust statistics and statistics education.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Statistics
+    institution: Australian National University
+    year: 1996
+  - course: Master of Statistics
+    institution: Australian National University
+    year: 1992
+  - course: BA(Hons) in Statistics & Operations Research
+    institution: Vicotira Universty of Wellington
+    year: 1991
 email: ""
 interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
-name: Nelson Bighetti
+name: Alice Richardson
 organizations:
 - name: Stanford University
   url: ""
@@ -43,6 +42,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+ I studied at Victoria University of Wellington, New Zealand, then at the Australian National University, Canberra. My PhD was on the statistical properties of robust methods of estimation for multilevel linear models.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I have twenty years of experience in teaching undergraduate statistics at the University of Canberra. During that time I also collaborated on quantitative research projects in every Faculty of the University. In 2016 I took up a position as biostatistician at the National Centre for Epidemiology & Population Health at the Australian National University.
+
+From October 2019 I took up the role of Director of the Statistical Consulting Unit at ANU.
