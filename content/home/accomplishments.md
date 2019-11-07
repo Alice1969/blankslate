@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   title = "Visionary Leadership for Women"
   url = ""
   certificate_url = "https://dattnergroup.com.au/compass/compass-women-overview/"
-  date_start = "June 2018"
-  date_end = "September 2018"
-  description = "A transformational program that links women’s ambition with their deepest sense of purpose and core values."
+  date_start = "Jun 2018"
+  date_end = "Sep 2018"
+  description = """A transformational program that links women’s ambition with their deepest sense of purpose and core values."""
 
 +++
